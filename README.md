@@ -1,7 +1,20 @@
-### Hi there 😎
+### Hey 👋
 
-👋 I'm a software engineer and business owner continuing to learn and build creative solutions. I'm motivated by the tangible change I can make in users' lives.
+I'm Nick.
 
-🦾 I'm joining Roblox's accessibility team this summer with a mission to empower everyone to express themselves and connect on Roblox.
+I'm currently:
+- Working at [Roblox](https://github.com/Roblox) 🦾
+  - Developing our Design System
+  - Improving libraries like [React](https://github.com/Roblox/react-lua)
+  - Supporting accessibility
+- Running a niche wireless DIY keyboard company ⌨️
+  - [Nice Keyboards](https://nicekeyborads.com), designing and producing parts for low-power wireless keyboards
+  - [Typeractive.xyz](https://typeractive.xyz), creating a polished DIY customer experience from order to delivery to assembly
 
-⌨️ I also run a niche wireless DIY keyboard brand, Nice Keyboards, as well as its retail brand, Typeractive.xyz, in my free time. We create premium products with a polished experience from ordering to delivery to assembly.
+You can find me on:
+- [GitHub (Nicell)](https://github.com/Nicell)
+- [Email (nick@winans.io)](mailto:nick@winans.io)
+- [Discord (nicell)](https://discord.com/users/132232584632598528)
+- [YouTube (TheNicell)](https://www.youtube.com/@TheNicell)
+- [X (WinansNick)](https://x.com/WinansNick)
+- [LinkedIn](https://www.linkedin.com/in/nick-winans/)
